@@ -1,0 +1,6 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["kubosho_ <ta2@o2p.jp>"]
+
+[dependencies]
