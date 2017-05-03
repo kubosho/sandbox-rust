@@ -1,0 +1,6 @@
+[package]
+name = "loop-rust"
+version = "0.1.0"
+authors = ["kubosho <ta2@o2p.jp>"]
+
+[dependencies]
